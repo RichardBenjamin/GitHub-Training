@@ -1,1 +1,2 @@
 Hello World
+This is comparison exercise; changes in file1
